@@ -1,0 +1,24 @@
+{
+  "name": "local-middle-core",
+  "version": "0.0.0",
+  "description": "Core library for the middle therapeutic music application",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "nodemon lib/index.js --exec babel-node --presets es2015,stage-2",
+    "build": "babel lib -d dist",
+    "serve": "node dist/index.js",
+    "test": "mocha --compilers js:babel-register"
+  },
+  "author": "bliston <brandon.liston@songwish.ca> (http://songwish.ca)",
+  "repository": "https://github.com/bliston/middle-core.git",
+  "bugs": "https://github.com/bliston/middle-core/issues",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.3.15",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-stage-2": "^6.3.13",
+    "babel-register": "^6.3.13",
+    "mocha": "^2.3.4",
+    "nodemon": "^1.8.1"
+  }
+}
