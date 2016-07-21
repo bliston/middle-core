@@ -1,7 +1,27 @@
 {
-	"Green Sleeves":{
-	"chordSet": ["Amin", "C", "Emin", "E", "G"],
-	"tonic": "a0",
-	"scaleName": "minor"
+	"Andrew Lloyd Webber":{
+	"chords": ["F", "Dmin", "Gmin", "C9", "C7", "Amin", "Dmin", "Gmin", "C7"],
+	"tonic": "f",
+	"scale": "major"
+	},
+	"Let it Be":{
+	"chords": ["D", "A7", "Bmin", "G", "D", "A7", "G", "A7"],
+	"tonic": "d",
+	"scale": "major"
+	},
+	"Van Morrison":{
+	"chords": ["G", "C", "G", "E7/G#", "Amin7", "D7"],
+	"tonic": "g",
+	"scale": "major"
+	},
+	"Fly me to the Moon":{
+	"chords": ["Amin7", "Dmin7", "G7", "CMaj7", "FMaj7", "Bmin7b5", "E7", "Amin7", "A7", "Dmin7", "G7", "CMaj7", "Amin7", "Dmin7", "G7", "CMaj7", "E7"],
+	"tonic": "a",
+	"scale": "minor"
+	},
+	"Yesterday":{
+	"chords": ["F", "Emin", "A7", "Dmin7", "Dmin7/C", "Bb", "C7", "F", "F/E", "Dmin7", "G", "Bb", "F", "F", "Emin", "A7", "Dmin7", "Dmin7/C", "Bb", "C7", "F", "F/E", "Dmin7", "G", "Bb", "F", "Emin", "A7", "Dm", "C", "Bb", "A7sus4", "Gmin6", "C7", "F", "Emin", "A7", "Dmin", "C", "Bb", "A7sus4", "Gmin6", "C7", "F", "F", "Emin", "A7", "Dmin7", "Dmin7/C", "Bb", "C7", "F", "F/C", "Dmin7", "G7", "Bb", "F", "Dmin7", "G7", "Bb", "F"],
+	"tonic": "F",
+	"scale": "major"
 	}
 }
