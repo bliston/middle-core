@@ -37,6 +37,8 @@
   "dependencies": {
     "jquery": "^3.1.0",
     "lodash": "^4.13.1",
+    "music-scale": "^1.2.0",
+    "note-midi": "^1.0.2",
     "teoria": "^2.2.0",
     "webmidi": "^2.0.0-alpha.6"
   }
