@@ -1,27 +1,32 @@
 {
-	"Andrew Lloyd Webber":{
-	"chords": ["F", "Dmin", "Gmin", "C9", "C7", "Amin", "Dmin", "Gmin", "C7"],
-	"tonic": "f",
-	"scale": "major"
-	},
-	"Let it Be":{
+	"Let it Be - The Beatles":{
 	"chords": ["D", "A7", "Bmin", "G", "D", "A7", "G", "A7"],
-	"tonic": "d",
+	"tonic": "D",
 	"scale": "major"
 	},
-	"Van Morrison":{
-	"chords": ["G", "C", "G", "E7/G#", "Amin7", "D7"],
-	"tonic": "g",
-	"scale": "major"
-	},
-	"Fly me to the Moon":{
+	"Fly me to the Moon - Frank Sinatra":{
 	"chords": ["Amin7", "Dmin7", "G7", "CMaj7", "FMaj7", "Bmin7b5", "E7", "Amin7", "A7", "Dmin7", "G7", "CMaj7", "Amin7", "Dmin7", "G7", "CMaj7", "E7"],
-	"tonic": "a",
+	"tonic": "A",
 	"scale": "minor"
 	},
-	"Yesterday":{
+	"Yesterday - The Beatles":{
 	"chords": ["F", "Emin", "A7", "Dmin7", "Dmin7/C", "Bb", "C7", "F", "F/E", "Dmin7", "G", "Bb", "F", "F", "Emin", "A7", "Dmin7", "Dmin7/C", "Bb", "C7", "F", "F/E", "Dmin7", "G", "Bb", "F", "Emin", "A7", "Dm", "C", "Bb", "A7sus4", "Gmin6", "C7", "F", "Emin", "A7", "Dmin", "C", "Bb", "A7sus4", "Gmin6", "C7", "F", "F", "Emin", "A7", "Dmin7", "Dmin7/C", "Bb", "C7", "F", "F/C", "Dmin7", "G7", "Bb", "F", "Dmin7", "G7", "Bb", "F"],
 	"tonic": "F",
+	"scale": "major"
+	},
+	"You Were Made for Me - Sam Cooke":{
+	"chords": ["G", "Emin", "G", "Emin", "A7", "B7", "Emin", "Amin7", "D7"],
+	"tonic": "G",
+	"scale": "major"
+	},
+	"My Favorite Things - Rodgers and Hammerstein":{
+	"chords": ["F#min", "DMaj7", "Bmin", "E7", "AMaj7", "DMaj7", "G#m7b5", "C#7b9"],
+	"tonic": "F#",
+	"scale": "minor"
+	},
+	"Prelude in C - Johann Sebastien Bach":{
+	"chords": ["C", "Dmin/C", "G7/B", "C", "Amin/C", "D/C", "G/B", "C/B", "Amin7", "D7", "G7", "Gdim7", "Dmin/F", "Fdim7", "C/E", "F/E", "Dmin7", "G7", "C", "C7", "FMaj7", "F#dim7", "Dm7b5add13", "G7", "C/G", "G7sus", "G7", "F#dim7/G", "C/G", "G7sus", "G7", "C7", "F/C", "Dmin7", "G7/B", "C"],
+	"tonic": "C",
 	"scale": "major"
 	}
 }
