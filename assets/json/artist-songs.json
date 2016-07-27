@@ -24,8 +24,38 @@
 	"tonic": "F#",
 	"scale": "minor"
 	},
-	"Prelude in C - Johann Sebastien Bach":{
+	"Prelude in C - Bach":{
 	"chords": ["C", "Dmin/C", "G7/B", "C", "Amin/C", "D/C", "G/B", "C/B", "Amin7", "D7", "G7", "Gdim7", "Dmin/F", "Fdim7", "C/E", "F/E", "Dmin7", "G7", "C", "C7", "FMaj7", "F#dim7", "Dm7b5add13", "G7", "C/G", "G7sus", "G7", "F#dim7/G", "C/G", "G7sus", "G7", "C7", "F/C", "Dmin7", "G7/B", "C"],
+	"tonic": "C",
+	"scale": "major"
+	},
+	"Basic Preacher Chords in C - Sam Tolbert":{
+	"chords": [["C", "E", "G", "A", "C"], ["C", "E", "G", "A", "C"], ["F#", "E", "Ab", "Bb", "C"], ["F", "Eb", "G", "A", "C"], ["F#", "Eb", "F#", "A", "C"], ["G", "E", "G", "A", "C"], ["G", "F", "B", "Eb", "G"]],
+	"tonic": "C",
+	"scale": "major"
+	},
+	"What A Wonderful World - Louis Armstrong":{
+	"chords": ["F", "Am", "Bb", "Am", "Gm7", "F", "A7", "Dm", "Db", "Gm7", "C", "F", "Bbmaj7", "C7"],
+	"tonic": "F",
+	"scale": "major"
+	},
+	"Canon in D - Pachelbel":{
+	"chords": ["D", "A", "Bm", "F#m", "G", "D", "G", "A"],
+	"tonic": "D",
+	"scale": "major"
+	},
+	"Laudate Dominum - Mozart":{
+	"chords": ["E", "F#m7", "E/G#", "Aadd9", "B/A", "E/G#", "B7", "Esus4", "E"],
+	"tonic": "E",
+	"scale": "major"
+	},
+	"Concerto for 2 Cellos in G minor - Vivaldi":{
+	"chords": ["Gm", "Cm", "Gm", "Cm", "D", "D/C", "Gm/Bb", "A", "Dm"],
+	"tonic": "G",
+	"scale": "minor"
+	},
+	"Symphony No. 7: ii. Allegretto - Beethoven":{
+	"chords": ["Am", "E/G#", "E", "Am", "C/G", "D/C", "G", "C", "B", "Bm", "A", "Am", "E/G#", "Am", "E"],
 	"tonic": "C",
 	"scale": "major"
 	}
