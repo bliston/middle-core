@@ -2,61 +2,66 @@
 	"Let it Be - The Beatles":{
 	"chords": ["D", "A7", "Bmin", "G", "D", "A7", "G", "A7"],
 	"tonic": "D",
-	"scale": "major"
+	"scale": 1361
 	},
 	"Fly me to the Moon - Frank Sinatra":{
 	"chords": ["Amin7", "Dmin7", "G7", "CMaj7", "FMaj7", "Bmin7b5", "E7", "Amin7", "A7", "Dmin7", "G7", "CMaj7", "Amin7", "Dmin7", "G7", "CMaj7", "E7"],
-	"tonic": "A",
-	"scale": "minor"
+	"tonic": "C",
+	"scale": 393
 	},
 	"Yesterday - The Beatles":{
 	"chords": ["F", "Emin", "A7", "Dmin7", "Dmin7/C", "Bb", "C7", "F", "F/E", "Dmin7", "G", "Bb", "F", "F", "Emin", "A7", "Dmin7", "Dmin7/C", "Bb", "C7", "F", "F/E", "Dmin7", "G", "Bb", "F", "Emin", "A7", "Dm", "C", "Bb", "A7sus4", "Gmin6", "C7", "F", "Emin", "A7", "Dmin", "C", "Bb", "A7sus4", "Gmin6", "C7", "F", "F", "Emin", "A7", "Dmin7", "Dmin7/C", "Bb", "C7", "F", "F/C", "Dmin7", "G7", "Bb", "F", "Dmin7", "G7", "Bb", "F"],
 	"tonic": "F",
-	"scale": "major"
+	"scale": 1361
 	},
 	"You Were Made for Me - Sam Cooke":{
 	"chords": ["G", "Emin", "G", "Emin", "A7", "B7", "Emin", "Amin7", "D7"],
 	"tonic": "G",
-	"scale": "major"
+	"scale": 393
 	},
 	"My Favorite Things - Rodgers and Hammerstein":{
 	"chords": ["F#min", "DMaj7", "Bmin", "E7", "AMaj7", "DMaj7", "G#m7b5", "C#7b9"],
 	"tonic": "F#",
-	"scale": "minor"
+	"scale": 465
+	},
+	"Cry Me A River - Ella Fitzgerald":{
+	"chords": ["Amin9", "Amin", "Dmin7", "G7", "C", "E7", "A7", "Amin7/F#", "F", "E7", "Am", "E7", "Amin9", "Amin", "Dmin7", "G7", "C", "E7", "A7", "Amin7/F#", "F", "E7", "Amin7"],
+	"tonic": "C",
+	"scale": 393
 	},
 	"Prelude in C - Bach":{
 	"chords": ["C", "Dmin/C", "G7/B", "C", "Amin/C", "D/C", "G/B", "C/B", "Amin7", "D7", "G7", "Gdim7", "Dmin/F", "Fdim7", "C/E", "F/E", "Dmin7", "G7", "C", "C7", "FMaj7", "F#dim7", "Dm7b5add13", "G7", "C/G", "G7sus", "G7", "F#dim7/G", "C/G", "G7sus", "G7", "C7", "F/C", "Dmin7", "G7/B", "C"],
 	"tonic": "C",
-	"scale": "major"
+	"scale": 393
 	},
 	"Basic Preacher Chords in C - Sam Tolbert":{
 	"chords": [["C", "E", "G", "A", "C"], ["C", "E", "G", "A", "C"], ["F#", "E", "Ab", "Bb", "C"], ["F", "Eb", "G", "A", "C"], ["F#", "Eb", "F#", "A", "C"], ["G", "E", "G", "A", "C"], ["G", "F", "B", "Eb", "G"]],
 	"tonic": "C",
-	"scale": "major"
+	"scale": 393
 	},
 	"What A Wonderful World - Louis Armstrong":{
 	"chords": ["F", "Am", "Bb", "Am", "Gm7", "F", "A7", "Dm", "Db", "Gm7", "C", "F", "Bbmaj7", "C7"],
 	"tonic": "F",
-	"scale": "major"
+	"scale": 393
 	},
 	"Canon in D - Pachelbel":{
 	"chords": ["D", "A", "Bm", "F#m", "G", "D", "G", "A"],
 	"tonic": "D",
-	"scale": "major"
+	"scale": 1361
 	},
 	"Laudate Dominum - Mozart":{
-	"chords": ["E", "F#m7", "E/G#", "Aadd9", "B/A", "E/G#", "B7", "Esus4", "E"],
+	"chords": ["E", "F#m7", "E/G#", "Aadd9", "B/A", "E/G#", "B7", "Esus4"],
 	"tonic": "E",
-	"scale": "major"
+	"scale": 393
 	},
 	"Concerto for 2 Cellos in G minor - Vivaldi":{
 	"chords": ["Gm", "Cm", "Gm", "Cm", "D", "D/C", "Gm/Bb", "A", "Dm"],
 	"tonic": "G",
-	"scale": "minor"
+	"scale": 465
 	},
 	"Symphony No. 7: ii. Allegretto - Beethoven":{
 	"chords": ["Am", "E/G#", "E", "Am", "C/G", "D/C", "G", "C", "B", "Bm", "A", "Am", "E/G#", "Am", "E"],
 	"tonic": "C",
-	"scale": "major"
+	"scale": 393
 	}
 }
